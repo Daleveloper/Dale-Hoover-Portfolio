@@ -17,19 +17,19 @@ hr{
 
 /*--header--*/
 header{
-  background-color:#006161;
+  background-color:#1DB9B9;
 }
 
 .logo{
  font-size: 72px;
- color: #c5c0b8;
+ color: #0f5566;
  margin: 0;
  padding: 25px 0 0 0;
   
 }
 
 .logo2{
-  color: #c5c0b8;
+  color: #0f5566;
 
 }
 nav{
@@ -67,14 +67,14 @@ p{
 
 
 /*link colors*/
-a:link { color:#6d8be3 ; }
-a:visited { color: #bc62b0; }
+a:link { color: #7F0606; }
+a:visited { color: #7F0606; }
 a:hover { color: #a6c412; }
-a:active { color: #db3d3d; }
+a:active { color: #a6c412; }
 
 /*footer*/
 Footer{
-  background-color:#006161;
+  background-color:#1DB9B9;
   padding: 15px;
   margin: 0;
 }
